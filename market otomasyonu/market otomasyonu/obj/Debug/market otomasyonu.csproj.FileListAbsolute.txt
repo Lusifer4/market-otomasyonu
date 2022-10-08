@@ -1,0 +1,59 @@
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.exe.config
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.exe
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.pdb
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.AssemblyReference.cache
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmKullanici.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.Properties.Resources.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.GenerateResource.cache
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.exe
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.pdb
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmKullniciGiris.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmMüdür.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonel.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmYardimci.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonelEkleme.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonelListe.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.frmPersListe2.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmUrunListe.resources
+C:\Users\geçici\Desktop\Yeni klasör\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmUrunEkle.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.exe.config
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.exe
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.pdb
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmKullanici.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmKullniciGiris.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmMüdür.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.frmPersListe2.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonel.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonelEkleme.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonelListe.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmYardimci.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmUrunListe.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmUrunEkle.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.Properties.Resources.resources
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.GenerateResource.cache
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.exe
+C:\Users\Erdem\Desktop\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.pdb
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.exe.config
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.exe
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\bin\Debug\market otomasyonu.pdb
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.AssemblyReference.cache
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmKullanici.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmKullniciGiris.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmMüdür.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.frmPersListe2.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonel.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonelEkleme.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmPersonelListe.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmYardimci.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmUrunListe.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.FrmUrunEkle.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market_otomasyonu.Properties.Resources.resources
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.GenerateResource.cache
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.exe
+C:\Users\geçici\Desktop\market_otomasyonu\market otomasyonu\market otomasyonu\obj\Debug\market otomasyonu.pdb
